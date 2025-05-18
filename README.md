@@ -15,4 +15,4 @@ Sets an alarm based on a user-specified time. The script waits until the designa
 ### 6. Password Generator
 Creates a random password based on user requirements.
 ### 7. Create CSV file
-Generates a CSV file based with random numbers based on user input. The user provides data rows, minimum and maximum value. The script writes this information into a CSV file.
+Generates a CSV file with random numbers based on user input. The user provides data rows, minimum and maximum value. The script writes this information into a CSV file.
